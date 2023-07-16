@@ -194,6 +194,8 @@ class _MainAppState extends State<MainApp> {
     );
   }
 
+  //--------Module and Function area---------
+
 //spacer for viewport
   SizedBox spacer() {
     return const SizedBox(
